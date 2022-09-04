@@ -1,0 +1,8 @@
+D:\ПОИБМС-7\ООП\Object-oriented-programming\l\Laba-2\obj\Debug\Laba-2.csproj.AssemblyReference.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\l\Laba-2\obj\Debug\Laba-2.csproj.SuggestedBindingRedirects.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\l\Laba-2\obj\Debug\Laba-2.csproj.CoreCompileInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\l\Laba-2\bin\Debug\Laba-2.exe.config
+D:\ПОИБМС-7\ООП\Object-oriented-programming\l\Laba-2\bin\Debug\Laba-2.exe
+D:\ПОИБМС-7\ООП\Object-oriented-programming\l\Laba-2\bin\Debug\Laba-2.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\l\Laba-2\obj\Debug\Laba-2.exe
+D:\ПОИБМС-7\ООП\Object-oriented-programming\l\Laba-2\obj\Debug\Laba-2.pdb
