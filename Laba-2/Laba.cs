@@ -17,13 +17,13 @@ namespace Laba_2
 
             sbyte SbyteT = 12;
             Console.WriteLine("sbyte: {0}\n", SbyteT);
-            
+
             byte ByteT = 2;
             Console.WriteLine("byte: {0}\n", ByteT);
-            
+
             short ShortT = 13;
             Console.WriteLine("short: {0}\n", ShortT);
-            
+
             ushort UshortT = 34;
             Console.WriteLine("ushort: {0}\n", UshortT);
 
@@ -32,7 +32,7 @@ namespace Laba_2
 
             uint UintT = 345;
             Console.WriteLine("uint: {0}\n", UintT);
-            
+
             long LongT = 15L;
             Console.WriteLine("long: {0}\n", LongT);
 
@@ -76,7 +76,7 @@ namespace Laba_2
             float Yav4 = (float)UshortT;
             Console.WriteLine("Явное 4: {0}\n", Yav4);
 
-            decimal Yav5 = (decimal)FloatT;
+            decimal Yav5 = Convert.ToDecimal(FloatT);
             Console.WriteLine("Явное 5: {0}\n", Yav5);
 
             // c
@@ -111,6 +111,50 @@ namespace Laba_2
             //d1 = "2";
 
             // 2
+            // a
+            string str1 = "sds jt mdfndjng";
+            string str2 = "sjdj dnfnjdjn";
+            Console.WriteLine(String.Compare(str1, str2));
+
+            //b
+            string str3 = "sjndf fkmdjf dkfjd";
+            Console.WriteLine(string.Concat(str1, str2, str3));
+            Console.WriteLine(String.Copy(str1));
+            Console.WriteLine(str1.Substring(6));
+            for (int i = 0; i < 3; i++)
+                Console.WriteLine(str1.Split(' ')[i]);
+            Console.WriteLine(str1.Insert(10, str1.Substring(12)));
+            Console.WriteLine(str1.Replace(str1.Substring(12), ""));
+            Console.WriteLine($"Строка str1: {str1}");
+
+            //c
+            string str4 = "";
+            string str5 = null;
+            Console.WriteLine(string.IsNullOrEmpty(str4));
+            Console.WriteLine(string.IsNullOrEmpty(str5));
+
+            //d
+            StringBuilder sb1 = new StringBuilder();
+            sb1.Append("string 1");
+            sb1.Insert(sb1.Length, "+1");
+            sb1.Remove(3, 4);
+            Console.WriteLine(sb1);
+
+            // 3
+            //a
+            int[,] arr1 = new int[3, 3];
+            for (int i = 0; i < 3; i++)
+                for (int j = 0; j < 3; j++)
+                {
+                    arr1[i, j] = i + j;
+                    Console.Write("{0} ", arr1[i, j]);
+                    if (j == 2)
+                        Console.WriteLine();
+                }
+
+            //b
+            string arrStr[] = new string[43d3] { "s1", "s2", "s3" };
+
         }
     }
 }
