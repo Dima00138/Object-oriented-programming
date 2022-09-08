@@ -153,7 +153,7 @@ namespace Laba_2
                 }
 
             //b
-            string arrStr[] = new string[43d3] { "s1", "s2", "s3" };
+            string arrStr[] = new string[3] { "s1", "s2", "s3" };
 
         }
     }
