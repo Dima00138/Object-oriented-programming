@@ -132,6 +132,7 @@ namespace Laba_2
             string str5 = null;
             Console.WriteLine(string.IsNullOrEmpty(str4));
             Console.WriteLine(string.IsNullOrEmpty(str5));
+            Console.WriteLine(str4 == str5);
 
             //d
             StringBuilder sb1 = new StringBuilder();
@@ -153,7 +154,102 @@ namespace Laba_2
                 }
 
             //b
-            string arrStr[] = new string[3] { "s1", "s2", "s3" };
+            string[] arrStr = new string[3] { "s1", "s2", "s3" };
+            Console.WriteLine(arrStr.Length);
+            for (int i = 0; i < 3; i++)
+            {
+                Console.Write("{0} ", arrStr[i]);
+            }
+            Console.WriteLine();
+            string strbsd = Console.ReadLine();
+            int strPosit = Convert.ToInt32(strbsd);
+            string strP = Console.ReadLine();
+            arrStr[strPosit] = strP;
+            for (int i = 0; i < 3; i++)
+            {
+                Console.Write("{0} ", arrStr[i]);
+            }
+
+            //c
+            double[][] jaggedFloatArr = new double[3][];
+            jaggedFloatArr[0] = new double[2];
+            jaggedFloatArr[1] = new double[3];
+            jaggedFloatArr[2] = new double[4];
+
+            for (int j = 0; j < 2; j++)
+                jaggedFloatArr[0][j] = Convert.ToDouble(Console.ReadLine());
+            for (int j = 0; j < 3; j++)
+                jaggedFloatArr[1][j] = Convert.ToDouble(Console.ReadLine());
+            for (int j = 0; j < 4; j++)
+                jaggedFloatArr[2][j] = Convert.ToDouble(Console.ReadLine());
+
+            //d
+            var que3d = new int[2];
+            var que3d2 = new StringBuilder();
+
+            //4
+            //a
+            (int, string, char, string, ulong) c1 = (12, "sd", '2', "dsjdf", 923284938482938428L);
+
+            //b
+            Console.WriteLine($"Элем1 - {c1.Item1}, элем3 - {c1.Item3}, элем5 - {c1.Item5}");
+
+            //c
+            int intC3 = c1.Item1;
+            string strC31 = c1.Item2;
+            char charC3 = c1.Item3;
+            string strC32 = c1.Item4;
+            ulong longC3 = c1.Item5;
+
+            //d
+            var c2 = c1;
+            Console.WriteLine($"c2 == c1 {c2==c1}, c2 != c1 {c2!=c1}");
+
+            //5
+            (int, int, int, char) func1(int[] intArr, string strF)
+            {
+                int sum = 0, min = int.MaxValue, max = int.MinValue;
+                for (int i = 0; i < intArr.Length; i++)
+                    sum += intArr[i];
+                for (int i = 0; i < intArr.Length; i++)
+                {
+                    if (min > intArr[i])
+                        min = intArr[i];
+
+                    if (max < intArr[i])
+                        max = intArr[i];
+                }
+                return (max, min, sum, strF[0]);
+            }
+            int[] sdsa = { 2, 4, 5, 7, 232, -322, 34 };
+            func1(sdsa, "skdkjs");
+
+            //6
+            void func2()
+            {
+                try
+                {
+                    int int123 = checked(int.MaxValue);
+                }
+                catch (OverflowException e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+            func2();
+
+            void func3()
+            {
+                try
+                {
+                    int int123 = unchecked(int.MaxValue);
+                }
+                catch (OverflowException e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+            func3();
 
         }
     }
