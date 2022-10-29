@@ -130,6 +130,7 @@ namespace Laba_2
             //c
             string str4 = "";
             string str5 = null;
+            str5 = "sjhdshjd";
             Console.WriteLine(string.IsNullOrEmpty(str4));
             Console.WriteLine(string.IsNullOrEmpty(str5));
             Console.WriteLine(str4 == str5);
@@ -184,8 +185,10 @@ namespace Laba_2
                 jaggedFloatArr[2][j] = Convert.ToDouble(Console.ReadLine());
 
             //d
-            var que3d = new int[2];
-            var que3d2 = new StringBuilder();
+            var que3d = new object[2];
+            que3d[0] = "dkjfdjfdj";
+            que3d[1] = 102;
+            Console.WriteLine($"{que3d[0]}, {que3d[1]}");
 
             //4
             //a
@@ -199,14 +202,18 @@ namespace Laba_2
             string strC31 = c1.Item2;
             char charC3 = c1.Item3;
             string strC32 = c1.Item4;
-            ulong longC3 = c1.Item5;
+            ulong longC3;
+
+            (_, _, _, _, longC3) = c1;
+
+            Console.WriteLine(longC3);
 
             //d
             var c2 = c1;
             Console.WriteLine($"c2 == c1 {c2==c1}, c2 != c1 {c2!=c1}");
 
             //5
-            (int, int, int, char) func1(int[] intArr, string strF)
+            (int?, int?, int?, char) func1(int[] intArr, string strF)
             {
                 int sum = 0, min = int.MaxValue, max = int.MinValue;
                 for (int i = 0; i < intArr.Length; i++)
@@ -222,14 +229,18 @@ namespace Laba_2
                 return (max, min, sum, strF[0]);
             }
             int[] sdsa = { 2, 4, 5, 7, 232, -322, 34 };
-            func1(sdsa, "skdkjs");
+            Console.WriteLine(func1(sdsa, "skdkjs"));
 
             //6
             void func2()
             {
                 try
                 {
-                    int int123 = checked(int.MaxValue);
+                    int int123 = int.MaxValue;
+                    checked
+                    {
+                        Console.WriteLine(int123 + 1);
+                    }
                 }
                 catch (OverflowException e)
                 {
@@ -242,7 +253,11 @@ namespace Laba_2
             {
                 try
                 {
-                    int int123 = unchecked(int.MaxValue);
+                    int int123 = int.MaxValue;
+                    unchecked
+                    {
+                        Console.WriteLine(int123 + 1);
+                    }
                 }
                 catch (OverflowException e)
                 {
