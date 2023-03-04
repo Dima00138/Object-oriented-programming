@@ -1,0 +1,17 @@
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\obj\Debug\net6.0-windows\laba-16B.csproj.AssemblyReference.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\obj\Debug\net6.0-windows\laba_16B.Form1.resources
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\obj\Debug\net6.0-windows\laba-16B.csproj.GenerateResource.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\obj\Debug\net6.0-windows\laba-16B.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\obj\Debug\net6.0-windows\laba-16B.AssemblyInfoInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\obj\Debug\net6.0-windows\laba-16B.AssemblyInfo.cs
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\obj\Debug\net6.0-windows\laba-16B.csproj.CoreCompileInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\bin\Debug\net6.0-windows\laba-16B.exe
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\bin\Debug\net6.0-windows\laba-16B.deps.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\bin\Debug\net6.0-windows\laba-16B.runtimeconfig.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\bin\Debug\net6.0-windows\laba-16B.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\bin\Debug\net6.0-windows\laba-16B.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\obj\Debug\net6.0-windows\laba-16B.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\obj\Debug\net6.0-windows\refint\laba-16B.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\obj\Debug\net6.0-windows\laba-16B.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\obj\Debug\net6.0-windows\laba-16B.genruntimeconfig.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16B\obj\Debug\net6.0-windows\ref\laba-16B.dll

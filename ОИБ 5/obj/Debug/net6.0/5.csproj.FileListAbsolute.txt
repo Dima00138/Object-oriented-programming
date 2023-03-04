@@ -1,0 +1,15 @@
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\bin\Debug\net6.0\5.exe
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\bin\Debug\net6.0\5.deps.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\bin\Debug\net6.0\5.runtimeconfig.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\bin\Debug\net6.0\5.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\bin\Debug\net6.0\5.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\obj\Debug\net6.0\5.csproj.AssemblyReference.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\obj\Debug\net6.0\5.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\obj\Debug\net6.0\5.AssemblyInfoInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\obj\Debug\net6.0\5.AssemblyInfo.cs
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\obj\Debug\net6.0\5.csproj.CoreCompileInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\obj\Debug\net6.0\5.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\obj\Debug\net6.0\refint\5.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\obj\Debug\net6.0\5.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\obj\Debug\net6.0\5.genruntimeconfig.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\5\obj\Debug\net6.0\ref\5.dll

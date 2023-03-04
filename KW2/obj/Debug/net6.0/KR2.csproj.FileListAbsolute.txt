@@ -1,0 +1,15 @@
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\obj\Debug\net6.0\KR2.csproj.AssemblyReference.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\obj\Debug\net6.0\KR2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\obj\Debug\net6.0\KR2.AssemblyInfoInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\obj\Debug\net6.0\KR2.AssemblyInfo.cs
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\obj\Debug\net6.0\KR2.csproj.CoreCompileInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\bin\Debug\net6.0\KR2.exe
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\bin\Debug\net6.0\KR2.deps.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\bin\Debug\net6.0\KR2.runtimeconfig.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\bin\Debug\net6.0\KR2.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\bin\Debug\net6.0\KR2.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\obj\Debug\net6.0\KR2.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\obj\Debug\net6.0\refint\KR2.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\obj\Debug\net6.0\KR2.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\obj\Debug\net6.0\KR2.genruntimeconfig.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\KR2\obj\Debug\net6.0\ref\KR2.dll

@@ -1,0 +1,15 @@
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\obj\Debug\net6.0\CRYPTO.csproj.AssemblyReference.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\obj\Debug\net6.0\CRYPTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\obj\Debug\net6.0\CRYPTO.AssemblyInfoInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\obj\Debug\net6.0\CRYPTO.AssemblyInfo.cs
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\obj\Debug\net6.0\CRYPTO.csproj.CoreCompileInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\bin\Debug\net6.0\CRYPTO.exe
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\bin\Debug\net6.0\CRYPTO.deps.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\bin\Debug\net6.0\CRYPTO.runtimeconfig.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\bin\Debug\net6.0\CRYPTO.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\bin\Debug\net6.0\CRYPTO.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\obj\Debug\net6.0\CRYPTO.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\obj\Debug\net6.0\refint\CRYPTO.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\obj\Debug\net6.0\CRYPTO.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\obj\Debug\net6.0\CRYPTO.genruntimeconfig.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\CRYPTO\obj\Debug\net6.0\ref\CRYPTO.dll

@@ -12,6 +12,11 @@ namespace laba_6
         {
             public string type;
             public int distance;
+
+            public TypeExpress() {
+                type = "df";
+                distance = 0;
+            }
         }
         public TypeExpress express;
         public new const string? TypeTransport = "Экспресс";
@@ -20,11 +25,23 @@ namespace laba_6
         {
             speed = 120;
             express.type = "Дальнего следования";
-            if (_distance <= 0)
+            if (_distance < 0)
             {
                 throw new ExpressException("Неправильное значение переменной", _distance);
             }
-            express.distance = _distance;
+            try
+            {
+                if (_distance > 0 && _distance < 100)
+                {
+                    throw new TrainException("Деление на 0", _distance);
+                }
+                express.distance = _distance;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Проброс");
+                throw;
+            }
         }
 
         public override string ToString()

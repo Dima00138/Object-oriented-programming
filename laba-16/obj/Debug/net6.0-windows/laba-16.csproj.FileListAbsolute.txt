@@ -1,0 +1,17 @@
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\bin\Debug\net6.0-windows\laba-16.exe
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\bin\Debug\net6.0-windows\laba-16.deps.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\bin\Debug\net6.0-windows\laba-16.runtimeconfig.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\bin\Debug\net6.0-windows\laba-16.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\bin\Debug\net6.0-windows\laba-16.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\obj\Debug\net6.0-windows\laba-16.csproj.AssemblyReference.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\obj\Debug\net6.0-windows\laba_16.Calculator.resources
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\obj\Debug\net6.0-windows\laba-16.csproj.GenerateResource.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\obj\Debug\net6.0-windows\laba-16.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\obj\Debug\net6.0-windows\laba-16.AssemblyInfoInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\obj\Debug\net6.0-windows\laba-16.AssemblyInfo.cs
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\obj\Debug\net6.0-windows\laba-16.csproj.CoreCompileInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\obj\Debug\net6.0-windows\laba-16.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\obj\Debug\net6.0-windows\refint\laba-16.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\obj\Debug\net6.0-windows\laba-16.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\obj\Debug\net6.0-windows\laba-16.genruntimeconfig.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-16\obj\Debug\net6.0-windows\ref\laba-16.dll

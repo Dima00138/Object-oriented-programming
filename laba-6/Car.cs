@@ -8,7 +8,7 @@ namespace laba_6
 {
     internal class Car : Transport
     {
-        public enum MarkOfCar
+        public enum MarkOfCar 
         {
             KIA,
             BMW,

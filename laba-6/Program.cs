@@ -33,68 +33,80 @@ namespace laba_6
 
 
             try
-            {
-                Car MyCar3 = new Car(-10, 50, 2000);
-            }catch (CarException ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-            try
-            {
-                Car MyCar3 = new Car(100, 20, 0);
-            }
-            catch (CarException ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-            try
-            {
-                Train MyTrain2 = new Train(0, 200);
-            }
-            catch (TrainException ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-            try
-            {
-                Train MyTrain2 = new Train(2, 0);
-            }
-            catch (TrainException ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-            try
-            {
+             {
+                 Car MyCar3 = new Car(-10, 50, 2000);
+             }catch (CarException ex)
+             {
+                 Console.WriteLine(ex.Message);
+             }
+             try
+             {
+                 Car MyCar3 = new Car(100, 20, 0);
+             }
+             catch (CarException ex)
+             {
+                 Console.WriteLine(ex.Message);
+             }
+             try
+             {
+                 Train MyTrain2 = new Train(0, 200);
+             }
+             catch (TrainException ex)
+             {
+                 Console.WriteLine(ex.Message);
+             }
+             try
+             {
+                 Train MyTrain2 = new Train(2, 0);
                 Express MyExpress2 = new Express(-100);
             }
+             catch (TrainException ex)
+             {
+                 Console.WriteLine(ex.Message);
+             }
             catch (ExpressException ex)
             {
                 Console.WriteLine(ex.Message);
             }
+
 
             ////sdsjnadsahjkjdfbs
             try
-            {
-                Train MyTrain2 = new Train(2, 0);
-                Express MyExpress2 = new Express(-100);
-            }
-            catch
-            {
-                Console.WriteLine("Возникла ошибка");
-            }
+             {
+                 Train MyTrain2 = new Train(2, 0);
+                 Express MyExpress2 = new Express(-100);
+             }
+             catch
+             {
+                 Console.WriteLine("Возникла ошибка");
+             }
 
-            try
-            {
-                Express MyExpress2 = new Express(-100);
-            }
-            catch (ExpressException ex)
-            {
-                Console.WriteLine(ex.Message + " " + ex.Val);
-            }
-            finally
-            {
-                Console.WriteLine("Будет выведено в любом случае");
-            }
+             try
+             {
+                 Express MyExpress2 = new Express(-100);
+             }
+             catch (ExpressException ex)
+             {
+                 Console.WriteLine(ex.Message + " " + ex.Val + " " + ex.Source + " " + ex.Data);
+             }
+             finally
+             {
+                 Console.WriteLine("Будет выведено в любом случае");
+             }
+
+             //Проброс
+             try
+             {
+                 Express MyExpress2 = new Express(50);
+             }
+             catch (Exception ex)
+             {
+                 Console.WriteLine("Возникла ошибка");
+             }
+
+             //Assert
+             TransportAgency tr = new TransportAgency();
+             tr.PrintList();
+         }
         }
     }
-}

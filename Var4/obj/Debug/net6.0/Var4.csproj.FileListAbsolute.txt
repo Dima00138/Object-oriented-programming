@@ -1,0 +1,15 @@
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\bin\Debug\net6.0\Var4.exe
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\bin\Debug\net6.0\Var4.deps.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\bin\Debug\net6.0\Var4.runtimeconfig.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\bin\Debug\net6.0\Var4.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\bin\Debug\net6.0\Var4.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\obj\Debug\net6.0\Var4.csproj.AssemblyReference.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\obj\Debug\net6.0\Var4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\obj\Debug\net6.0\Var4.AssemblyInfoInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\obj\Debug\net6.0\Var4.AssemblyInfo.cs
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\obj\Debug\net6.0\Var4.csproj.CoreCompileInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\obj\Debug\net6.0\Var4.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\obj\Debug\net6.0\refint\Var4.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\obj\Debug\net6.0\Var4.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\obj\Debug\net6.0\Var4.genruntimeconfig.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\Var4\obj\Debug\net6.0\ref\Var4.dll

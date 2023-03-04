@@ -1,0 +1,15 @@
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\obj\Debug\net6.0\TOEXAM.csproj.AssemblyReference.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\obj\Debug\net6.0\TOEXAM.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\obj\Debug\net6.0\TOEXAM.AssemblyInfoInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\obj\Debug\net6.0\TOEXAM.AssemblyInfo.cs
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\obj\Debug\net6.0\TOEXAM.csproj.CoreCompileInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\bin\Debug\net6.0\TOEXAM.exe
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\bin\Debug\net6.0\TOEXAM.deps.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\bin\Debug\net6.0\TOEXAM.runtimeconfig.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\bin\Debug\net6.0\TOEXAM.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\bin\Debug\net6.0\TOEXAM.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\obj\Debug\net6.0\TOEXAM.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\obj\Debug\net6.0\refint\TOEXAM.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\obj\Debug\net6.0\TOEXAM.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\obj\Debug\net6.0\TOEXAM.genruntimeconfig.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\TOEXAM\obj\Debug\net6.0\ref\TOEXAM.dll

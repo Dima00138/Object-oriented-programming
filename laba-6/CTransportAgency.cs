@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -44,6 +45,8 @@ namespace laba_6
 
         public void PrintList()
         {
+            //macros
+            //Debug.Assert(count <= 0, "Кол-во элементов равно нулю");
             for (int i = 0; i < count; i++)
             {
                 Console.WriteLine($"{i}) {arrObj[i]}");

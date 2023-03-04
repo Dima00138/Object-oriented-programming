@@ -1,0 +1,9 @@
+
+
+File: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\hjj.txt
+File: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\laba-12.deps.json
+File: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\laba-12.dll
+File: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\laba-12.exe
+File: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\laba-12.pdb
+File: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\laba-12.runtimeconfig.json
+File: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\TDVlogfile.txt

@@ -1,0 +1,15 @@
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\bin\Debug\net6.0\laba-11.exe
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\bin\Debug\net6.0\laba-11.deps.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\bin\Debug\net6.0\laba-11.runtimeconfig.json
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\bin\Debug\net6.0\laba-11.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\bin\Debug\net6.0\laba-11.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\obj\Debug\net6.0\laba-11.csproj.AssemblyReference.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\obj\Debug\net6.0\laba-11.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\obj\Debug\net6.0\laba-11.AssemblyInfoInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\obj\Debug\net6.0\laba-11.AssemblyInfo.cs
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\obj\Debug\net6.0\laba-11.csproj.CoreCompileInputs.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\obj\Debug\net6.0\laba-11.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\obj\Debug\net6.0\refint\laba-11.dll
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\obj\Debug\net6.0\laba-11.pdb
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\obj\Debug\net6.0\laba-11.genruntimeconfig.cache
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-11\obj\Debug\net6.0\ref\laba-11.dll

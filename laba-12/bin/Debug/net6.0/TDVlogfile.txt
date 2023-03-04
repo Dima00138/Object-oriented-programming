@@ -1,0 +1,166 @@
+
+Date: 15.12.2022 17:24:28
+Path: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\TDVlogfile.txt
+File Name: TDVlogfile.txt
+
+Disk Name: C:\
+Drive type: Fixed
+Volume label: 
+File system: NTFS
+Available space to current user: 12957302784 byte
+Total available space: 12957302784 byte
+Total size of drive: 94248103936 byte
+Disk Name: D:\
+Drive type: Fixed
+Volume label: Новый том
+File system: NTFS
+Available space to current user: 61143420928 byte
+Total available space: 61143420928 byte
+Total size of drive: 417737994240 byte
+Disk Name: F:\
+Drive type: CDRom
+
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\TDVlogfile.txt
+File Name: TDVlogfile.txt
+File Lenght: 0
+File Extension: .txt
+
+Create Time: 15.12.2022 17:24:28
+Edit Time: 15.12.2022 17:24:28
+
+File Amount: 7
+
+
+File Name: hjj.txt
+Create Time: 15.12.2022 15:58:37
+File Name: laba-12.deps.json
+Create Time: 14.12.2022 23:24:26
+File Name: laba-12.dll
+Create Time: 14.12.2022 23:24:26
+File Name: laba-12.exe
+Create Time: 14.12.2022 23:24:26
+File Name: laba-12.pdb
+Create Time: 14.12.2022 23:24:26
+File Name: laba-12.runtimeconfig.json
+Create Time: 14.12.2022 23:24:26
+File Name: TDVlogfile.txt
+Create Time: 15.12.2022 17:24:28
+
+
+
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0
+Log End
+
+Date: 15.12.2022 17:25:10
+Path: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\TDVlogfile.txt
+File Name: TDVlogfile.txt
+
+Disk Name: C:\
+Drive type: Fixed
+Volume label: 
+File system: NTFS
+Available space to current user: 12955557888 byte
+Total available space: 12955557888 byte
+Total size of drive: 94248103936 byte
+Disk Name: D:\
+Drive type: Fixed
+Volume label: Новый том
+File system: NTFS
+Available space to current user: 61143412736 byte
+Total available space: 61143412736 byte
+Total size of drive: 417737994240 byte
+Disk Name: F:\
+Drive type: CDRom
+
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\TDVlogfile.txt
+File Name: TDVlogfile.txt
+File Lenght: 1332
+File Extension: .txt
+
+Create Time: 15.12.2022 17:24:28
+Edit Time: 15.12.2022 17:24:28
+
+File Amount: 8
+
+
+File Name: hjj.txt
+Create Time: 15.12.2022 15:58:37
+File Name: laba-12.deps.json
+Create Time: 14.12.2022 23:24:26
+File Name: laba-12.dll
+Create Time: 14.12.2022 23:24:26
+File Name: laba-12.exe
+Create Time: 14.12.2022 23:24:26
+File Name: laba-12.pdb
+Create Time: 14.12.2022 23:24:26
+File Name: laba-12.runtimeconfig.json
+Create Time: 14.12.2022 23:24:26
+File Name: TDV.zip
+Create Time: 15.12.2022 17:24:28
+File Name: TDVlogfile.txt
+Create Time: 15.12.2022 17:24:28
+
+
+Folder Name: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\TDVFilesCopyed
+Folder Name: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\TDVInspect
+Folder Name: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\UnraringFiles
+
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0
+Log End
+
+Date: 22.12.2022 16:50:04
+Path: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\TDVlogfile.txt
+File Name: TDVlogfile.txt
+
+Disk Name: C:\
+Drive type: Fixed
+Volume label: 
+File system: NTFS
+Available space to current user: 6461059072 byte
+Total available space: 6461059072 byte
+Total size of drive: 94248103936 byte
+Disk Name: D:\
+Drive type: Fixed
+Volume label: Новый том
+File system: NTFS
+Available space to current user: 71061032960 byte
+Total available space: 71061032960 byte
+Total size of drive: 417737994240 byte
+Disk Name: F:\
+Drive type: CDRom
+
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\TDVlogfile.txt
+File Name: TDVlogfile.txt
+File Lenght: 3032
+File Extension: .txt
+
+Create Time: 15.12.2022 17:24:28
+Edit Time: 15.12.2022 17:25:10
+
+File Amount: 8
+
+
+File Name: hjj.txt
+Create Time: 15.12.2022 15:58:37
+File Name: laba-12.deps.json
+Create Time: 14.12.2022 23:24:26
+File Name: laba-12.dll
+Create Time: 14.12.2022 23:24:26
+File Name: laba-12.exe
+Create Time: 14.12.2022 23:24:26
+File Name: laba-12.pdb
+Create Time: 14.12.2022 23:24:26
+File Name: laba-12.runtimeconfig.json
+Create Time: 14.12.2022 23:24:26
+File Name: TDV.zip
+Create Time: 15.12.2022 17:24:28
+File Name: TDVlogfile.txt
+Create Time: 15.12.2022 17:24:28
+
+
+Folder Name: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\TDVFilesCopyed
+Folder Name: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\TDVInspect
+Folder Name: D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0\UnraringFiles
+
+D:\ПОИБМС-7\ООП\Object-oriented-programming\laba-12\bin\Debug\net6.0
+Log End
