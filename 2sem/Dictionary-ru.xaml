@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:System="clr-namespace:System;assembly=mscorlib">
+    <System:String x:Key="Shedule_Button">Создать расписание</System:String>
+    <System:String x:Key="View_Shedule_Button">Посмотреть расписание</System:String>
+    <System:String x:Key="Train_Label">Поезд</System:String>
+    <System:String x:Key="TypeOfShedule_Label">Тип расписания</System:String>
+    <System:String x:Key="ConstructorOfShedule_Label">Конструктор расписания</System:String>
+    <System:String x:Key="Search_Shedule_Button">Поиск</System:String>
+    <System:String x:Key="TimeShedule_Label">Время</System:String>
+    <System:String x:Key="Platform_label">Платформа</System:String>
+    <System:String x:Key="From_Label">Откуда</System:String>
+    <System:String x:Key="To_label">Куда</System:String>
+</ResourceDictionary>

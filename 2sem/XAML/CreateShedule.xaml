@@ -1,0 +1,53 @@
+﻿<Page x:Class="CourseWork.XAML.CreateShedule"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CourseWork"
+      mc:Ignorable="d"
+        Title="CreateShedule" Height="439" Width="803">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="77*"/>
+            <ColumnDefinition Width="77*"/>
+            <ColumnDefinition Width="77*"/>
+            <ColumnDefinition Width="580*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="Train_Label" Grid.Column="4" Content="{DynamicResource ConstructorOfShedule_Label}" HorizontalAlignment="Left" Margin="102,9,0,0" VerticalAlignment="Top"/>
+        <local:TimeTB BorderColorChange="#FFA0FF00" x:Name="Time_TextBox" Grid.Column="4" HorizontalAlignment="Left" Margin="121,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" UndoLimit="11" Height="28" BorderBrush="Black" MaxLines="20" Background="White" CaretBrush="Black" FontSize="16" TextColor="#FFA0FF00"/>
+        <DatePicker Name="DatePick" Grid.Column="4" HorizontalAlignment="Left" Margin="363,42,0,0" VerticalAlignment="Top" FirstDayOfWeek="Monday" SelectedDateFormat="Long" Width="166"/>
+        <Label x:Name="TimeShedule_Label" Grid.Column="4" Content="{DynamicResource TimeShedule_Label}" HorizontalAlignment="Left" Margin="166,36,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.212,0.194"/>
+        <ComboBox x:Name="Trains" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="5,54,0,0" VerticalAlignment="Top" Width="120" >
+            <ComboBoxItem Content="T1"/>
+        </ComboBox>
+        <Label x:Name="Train_Label2" Grid.Column="1" Content="{DynamicResource Train_Label}" HorizontalAlignment="Left" Margin="11,30,0,0" VerticalAlignment="Top"/>
+        <!--<Label x:Name="Platform_label" Grid.Column="3" Content="{DynamicResource Platform_label}" HorizontalAlignment="Left" Margin="3,30,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="Platform" Grid.Column="2" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="72,54,0,0" VerticalAlignment="Top" Width="120" >
+            <ComboBoxItem Content="item1"/>
+            <ComboBoxItem Content="item2"/>
+            <ComboBoxItem Content="item3"/>
+        </ComboBox>-->
+        <ComboBox x:Name="From" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="5,121,0,0" VerticalAlignment="Top" Width="120" >
+            <ComboBoxItem Content="item1"/>
+            <ComboBoxItem Content="item2"/>
+            <ComboBoxItem Content="item3"/>
+        </ComboBox>
+        <Label Grid.Column="1" Content="{StaticResource From_Label}" HorizontalAlignment="Left" Margin="10,97,0,0" VerticalAlignment="Top"/>
+        <Label Grid.Column="3" Content="{StaticResource To_Label}" HorizontalAlignment="Left" Margin="3,97,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="To" Grid.Column="2" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="72,121,0,0" VerticalAlignment="Top" Width="120" >
+            <ComboBoxItem Content="item1"/>
+            <ComboBoxItem Content="item2"/>
+            <ComboBoxItem Content="item3"/>
+        </ComboBox>
+        <GroupBox Grid.Column="4" Header="frequency" Margin="45,94,172,267"/>
+        <RadioButton GroupName="Frequency" Checked="RadioBut_Checked" Content="daily" Margin="53,128,0,0" Grid.Column="4" RenderTransformOrigin="0.268,0.557" VerticalAlignment="Top" Width="53"/>
+        <RadioButton GroupName="Frequency" Checked="RadioBut_Checked" Content="even days" Margin="121,128,0,0" Grid.Column="4" RenderTransformOrigin="0.262,0.501" VerticalAlignment="Top"/>
+        <RadioButton GroupName="Frequency" Checked="RadioBut_Checked" Content="odd days" Margin="214,128,0,0" Grid.Column="4" RenderTransformOrigin="0.944,0.557" VerticalAlignment="Top"/>
+        <RadioButton GroupName="Frequency" Checked="RadioBut_Checked" Content="once" Margin="307,128,0,0" Grid.Column="4" VerticalAlignment="Top"/>
+        <Button Grid.Column="4" Content="Submit" Margin="134,252,0,0" VerticalAlignment="Top" Height="46" Width="81" Click="Button_Click"/>
+        <Button Grid.Column="4" Content="Undo" Margin="445,243,0,0" VerticalAlignment="Top" Click="Undo_Click"/>
+        <Button Grid.Column="4" Content="Redo" Margin="445,289,0,0" VerticalAlignment="Top" Click="Redo_Click"/>
+        <Button Grid.Column="4" Content="Save" Margin="240,252,0,0" VerticalAlignment="Top" Height="46" Width="81" Click="Save_Click"/>
+    </Grid>
+</Page>

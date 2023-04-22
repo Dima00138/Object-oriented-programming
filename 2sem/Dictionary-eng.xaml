@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:local="clr-namespace:CourseWork"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:System="clr-namespace:System;assembly=mscorlib">
+    <System:String x:Key="Shedule_Button">Create shedule</System:String>
+    <System:String x:Key="View_Shedule_Button">View shedule</System:String>
+    <System:String x:Key="Train_Label">Train</System:String>
+    <System:String x:Key="TypeOfShedule_Label">Type of Shedule</System:String>
+    <System:String x:Key="ConstructorOfShedule_Label">Constructor of shedule</System:String>
+    <System:String x:Key="Search_Shedule_Button">Search</System:String>
+    <System:String x:Key="TimeShedule_Label">Time</System:String>
+    <System:String x:Key="Platform_label">Platform</System:String>
+    <System:String x:Key="From_Label">From</System:String>
+    <System:String x:Key="To_Label">To</System:String>
+</ResourceDictionary>
